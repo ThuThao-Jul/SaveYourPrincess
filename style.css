@@ -1,0 +1,35 @@
+#container{
+    display: flex;
+    justify-content: space-around;
+    background-image: url(https://i.pinimg.com/originals/fe/8b/11/fe8b11e79a25ae7ced691b0f092e66b6.jpg);
+    /* background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; */
+}
+#direction{
+    width: 450px;
+    background-image: url(https://wallpapercave.com/wp/wp2509766.jpg);
+    background-size: cover;
+    padding-right: 45px;
+    padding-left: 45px;
+    padding-top: 40px;
+}
+.game-name{
+    font-family: 'Otomanopee One', sans-serif;
+    text-align: center;
+    color: #3E215D;
+}
+h2{
+    font-family: 'Merriweather', serif;
+}
+.character{
+    display: flex;
+    justify-content: space-between;
+    text-align: justify;
+}
+.good-luck{
+    text-align: center;
+    font-family: 'Otomanopee One', sans-serif;
+    color: red;
+    font-size: large;
+}
